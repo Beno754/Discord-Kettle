@@ -7,4 +7,5 @@ There is also a thermometer attached to the kettle, so that I know when the kett
 # Watch YouTube Video
 
 ![Thumnail showing a kettle with the Discord logo over it.](Images/Thumbnail.png)
+
 https://www.youtube.com/watch?v=3nnZLybTLSI&t=252s
